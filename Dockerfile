@@ -1,4 +1,4 @@
-# Start your image with a node base image
+# Start your image with a node base image [imp] 
 FROM node:18-alpine
 
 # The /app directory should act as the main application directory
